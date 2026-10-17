@@ -1,6 +1,6 @@
 cask "slash-command" do
-  version "0.1.0"
-  sha256 "c2a84f10afb5c6df8215ea8d3a88a34730ad2e82f49e4cfb78769a45b4fc12f1"
+  version "0.2.0"
+  sha256 "ebed1ded6e600db3eba2185e0aee03504764099f4d4d43e6e1d1285b3fdea6fc"
 
   url "https://github.com/yohangwak/slash-command/releases/download/v#{version}/Slash-Command.zip"
   name "Slash Command"
